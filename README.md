@@ -19,7 +19,7 @@ Installation
 
 
 
-git clone https://github.com/yourusername/streamlit-chatbot.git
+git clone https:/Saliha-Nishat/github.com//streamlit-chatbot.git
 cd streamlit-chatbot
 Install the required libraries:
 
